@@ -1,11 +1,7 @@
 public class dobble {
     public static void main(String[] args) {
         int i, j, k, cardnum = 0, n = 5;
-        String symbols[] = {"Andriska", "Bandi", "Benedek", "Bálint", "Bogi", "Boti",
-                "Csipe", "Gábor", "Józsi", "Julcsi", "Kata", "Laura",
-                "Luca", "Boróka", "Panna", "Zoé", "Kati", "Matya",
-                "Lizi", "Dominik", "Sör", "Royal cider", "Sibi", "Gléda", "Függőágy",
-                "Router (Zsivi)", "Tranyó", "Erimás póló", "Bogrács", "Tábortűz", "valami"};
+        String symbols[] = {/*21 strings */};
 
 
         // elso n+1 kartya
